@@ -47,3 +47,4 @@ A real, deployable **starter application**, not a finished commercial bodybuildi
 - Authentication is handled by Supabase; database rows use row-level security. The AI endpoint verifies the Supabase access token on each request.
 - The AI receives profile and recent logs to personalize replies. **Do not upload sensitive medical information without reviewing Google and Supabase privacy/data-handling policies.**
 - API responses and error states depend on external services. Live API connectivity cannot be verified without your credentials.
+- 
